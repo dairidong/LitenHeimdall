@@ -16,6 +16,6 @@
         "vite": "^5.0"
     },
     "dependencies": {
-        "fullpage.js": "^4.0.25"
+        "swiper": "^11.1.4"
     }
 }
